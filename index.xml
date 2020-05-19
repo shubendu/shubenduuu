@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2020, shubendu</copyright>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shubendu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -32,15 +32,6 @@ Dataset    Feature Description     SeriousDlqin2yrs Person experienced 90 days p
     </item>
     
     <item>
-      <title>Data Analysis and Visualisation on Breast cancer cells</title>
-      <link>https://shubendu.github.io/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://shubendu.github.io/rich-content/</guid>
-      <description>This is conetent this is image </description>
-    </item>
-    
-    <item>
       <title>Rich Content</title>
       <link>https://shubendu.github.io/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
@@ -52,20 +43,20 @@ Dataset    Feature Description     SeriousDlqin2yrs Person experienced 90 days p
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://shubendu.github.io/posts/placeholder-text/</link>
+      <link>https://shubendu.github.io/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://shubendu.github.io/posts/placeholder-text/</guid>
+      <guid>https://shubendu.github.io/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://shubendu.github.io/posts/math-typesetting/</link>
+      <link>https://shubendu.github.io/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://shubendu.github.io/posts/math-typesetting/</guid>
+      <guid>https://shubendu.github.io/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
